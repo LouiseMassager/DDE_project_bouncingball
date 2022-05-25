@@ -3,8 +3,8 @@
 
 ## Screenshot
 <div align="center">
-  <a href="https://github.com/LouiseMassager/DDE_project_bouncingball/tracking/demo_pictures">
-    <img src="track_tennis_color.jpg" width=500>
+  <a href="https://github.com/LouiseMassager/DDE_project_bouncingball/tracking">
+    <img src="tracking/demo_pictures/track_tennis_color.jpg" width=500>
   </a>
 </div>
 

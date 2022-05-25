@@ -1,13 +1,8 @@
 # DDE_project_bouncingball 🥎
 
 
-## Screenshots
-![](test.gif)
-<div align="center">
-  <a href="https://github.com/LouiseMassager/DDE_project_bouncingball/tracking">
-    <img src="tracking/demo_pictures/track_tennis_color.jpg" width=150>
-  </a>
-</div>
+## Demonstrations
+![](DDE_project_bouncingball/tracking/videos/test.gif)
 
 ## Features
 The tracking has been realized with opencv which can be installed with pip:

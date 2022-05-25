@@ -2,7 +2,7 @@
 
 
 ## Demonstrations
-![](DDE_project_bouncingball/tracking/videos/test.gif)
+![](tracking/videos/test.gif)
 
 ## Features
 The tracking has been realized with opencv which can be installed with pip:

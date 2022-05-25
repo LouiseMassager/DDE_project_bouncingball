@@ -9,7 +9,7 @@
 </div>
 
 ## Features
-The tracking has been realized with opencv which can be installed with pip:
+The tracking has been realized with opencv which can be installed with pip (not recommended):
 ```bash
 python -m pip install opencv-python
 ```

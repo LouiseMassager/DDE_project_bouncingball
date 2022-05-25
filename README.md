@@ -9,8 +9,16 @@
 </div>
 
 ## Features
+The tracking has been realized with opencv which can be installed with pip:
+```bash
+python -m pip install opencv-python
+```
 
 ## Deployment
+```bash
+python -m pip install opencv-python
+```
+* [DDE_tracking_with_color.ipynb](https://github.com/LouiseMassager/DDE_project_bouncingball/blob/main/tracking/DDE_tracking_with_color.ipynb) can be used to track and save the position of the center of the ball with based on its color.
 
 ## Author
 

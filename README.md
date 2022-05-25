@@ -4,7 +4,7 @@
 ## Screenshot
 <div align="center">
   <a href="https://github.com/LouiseMassager/DDE_project_bouncingball/tracking">
-    <img src="tracking/demo_pictures/track_tennis_color.jpg" width=500>
+    <img src="tracking/demo_pictures/track_tennis_color.jpg" width=50>
   </a>
 </div>
 

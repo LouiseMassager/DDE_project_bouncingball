@@ -2,7 +2,7 @@
 
 
 ## Screenshots
-![](trst.gif)
+![](test.gif)
 <div align="center">
   <a href="https://github.com/LouiseMassager/DDE_project_bouncingball/tracking">
     <img src="tracking/demo_pictures/track_tennis_color.jpg" width=150>

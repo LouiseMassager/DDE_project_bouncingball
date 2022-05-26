@@ -20,7 +20,7 @@ python -m pip install imutils
 - [@Louise Massager](https://github.com/LouiseMassager)
 - [@Dinh-Hao Nguyen](https://github.com/Dinh-Hao-Nguyen)
 - [@Yiming]
-- [@Mohammadjavad Rahim]
+- [@Mohammadjavad Rahimi]
 
 
 ## Acknowledgements

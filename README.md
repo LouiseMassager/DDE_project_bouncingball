@@ -14,6 +14,7 @@ python -m pip install imutils
 ## Codes description
 
 * [DDE_tracking_with_color.ipynb](https://github.com/LouiseMassager/DDE_project_bouncingball/blob/main/tracking/DDE_tracking_with_color.ipynb) can be used to track and save the position of the center of the ball with based on its color.
+* [DDE_tracking_with_shape.ipynb](https://github.com/LouiseMassager/DDE_project_bouncingball/blob/main/tracking/DDE_tracking_with_shape.ipynb) can be used to track and save the position of the center of the ball with based on its shape.
 
 ## Author
 

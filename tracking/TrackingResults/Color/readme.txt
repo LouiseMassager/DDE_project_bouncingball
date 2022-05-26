@@ -1,1 +1,1 @@
-folder for results of tracking with shape.
+folder for results of tracking with color.

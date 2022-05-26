@@ -2,8 +2,8 @@
 
 
 ## Demonstrations
-[Color Tracking]<img src="tracking/TrackingResults/Color/ball1_3/video.gif" width="200" height="400">
-[Shape Tracking]<img src="tracking/TrackingResults/Shape/ball1_3/video.gif" width="200" height="400">
+[@Color Tracking]<img src="tracking/TrackingResults/Color/ball1_3/video.gif" width="200" height="400">
+[@Shape Tracking]<img src="tracking/TrackingResults/Shape/ball1_3/video.gif" width="200" height="400">
 
 ## Features
 The tracking has been realized with opencv and imutils which can be installed with pip:

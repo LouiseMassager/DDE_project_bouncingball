@@ -2,7 +2,7 @@
 
 
 ## Demonstrations
-![](tracking/TrackingResults/Color/ball1_3/video.avi)
+![](tracking/TrackingResults/Shape/ball1_3/video.gif)
 ![](tracking/videos/color1_3.gif)
 
 ## Features

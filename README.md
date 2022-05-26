@@ -2,7 +2,7 @@
 
 
 ## Demonstrations
-![Color_Tracking](tracking/TrackingResults/Color/ball1_3/video.gif =200x400)
+![Color_Tracking](tracking/TrackingResults/Color/ball1_3/video.gif=200x400)
 
 ## Features
 The tracking has been realized with opencv and imutils which can be installed with pip:

@@ -3,7 +3,6 @@
 
 ## Demonstrations
 ![](tracking/TrackingResults/Shape/ball1_3/video.gif)
-![](tracking/videos/color1_3.gif)
 
 ## Features
 The tracking has been realized with opencv and imutils which can be installed with pip:

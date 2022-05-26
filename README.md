@@ -5,9 +5,10 @@
 ![](tracking/videos/test.gif)
 
 ## Features
-The tracking has been realized with opencv which can be installed with pip:
+The tracking has been realized with opencv and imutils which can be installed with pip:
 ```bash
 python -m pip install opencv-python
+python -m pip install imutils
 ```
 
 ## Codes description

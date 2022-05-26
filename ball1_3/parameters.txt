@@ -1,4 +1,0 @@
-cropping True
-balltype 1
-videoname Videos/ball1_3.mp4
-fps 24

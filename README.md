@@ -3,7 +3,7 @@
 
 ## Demonstrations
 ![](tracking/videos/test.gif)
-![](tracking/videos/color1_3.gif)<width=500>
+![](tracking/videos/color1_3.gif)
 
 ## Features
 The tracking has been realized with opencv and imutils which can be installed with pip:

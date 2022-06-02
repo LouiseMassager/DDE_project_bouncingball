@@ -5,26 +5,26 @@ from the experimental data collected through computer vision.
 (!) This code use the optimisation toolbox: MPT (!)
 %}
 %% functions
-y_th=@(v0,g,t) v0.*t -0.5.*g*t.^2
-rho=@(n,h0,v0,g) (v0/sqrt(2*h0*g))^(1/n)
-h0_real=@(h0,g) (9.81/g)*h0
+y_th=@(v0,g,t) v0.*t -0.5.*g*t.^2;
+rho=@(n,h0,v0,g) (v0/sqrt(2*h0*g))^(1/n);
+h0_real=@(h0,g) (9.81/g)*h0;
 
 %% inputs
 %bond 1 => 25:48
 %bond 2 => 50:64
-is=50
-ie=64
-n=2
+is=50;
+ie=64;
+n=2;
 
 %% data treatment
-maxy= max(y)
-H_exp= maxy- y(is:ie) 
-T_exp= t(is:ie)-t(is)
+maxy= max(y);
+H_exp= maxy- y(is:ie) ;
+T_exp= t(is:ie)-t(is);
 h0=maxy-y(2)
 
 Hs=maxy-y(is);He=maxy-y(ie);Ts=0;Te=t(ie)-t(is); %to remove offset when ball approach/go further away from the camera
-ligne=((T_exp-Ts).*((He-Hs)/(Te-Ts)))+Hs
-H_exp= H_exp-ligne
+ligne=((T_exp-Ts).*((He-Hs)/(Te-Ts)))+Hs;
+H_exp= H_exp-ligne;
 
 %% optimisation
 

@@ -3,6 +3,8 @@
 
 ## Demonstrations
 Tracking of the ball with color and shape:
+
+
 <img src="tracking/TrackingResults/Color/ball1_3/video.gif" width="200" height="400"> <img src="tracking/TrackingResults/Shape/ball1_3/video.gif" width="200" height="400">
 
 ## Features

@@ -7,10 +7,18 @@ Tracking of the ball with color and shape:
 <img src="tracking/TrackingResults/Color/ball1_3/video.gif" width="200" height="400"> <img src="tracking/TrackingResults/Shape/ball1_3/video.gif" width="200" height="400">
 
 ## Features
+
+This project rely on code realised in Python and MATLAB.
+
 The tracking has been realized with opencv and imutils which can be installed with pip:
 ```bash
 python -m pip install opencv-python
 python -m pip install imutils
+```
+
+Multiple other code on Python rely on sklearn and  numpy which can be installed with pip:
+```bash
+python -m pip install numpy
 ```
 
 ## Codes description

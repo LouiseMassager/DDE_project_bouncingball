@@ -21,7 +21,7 @@ Multiple other code on Python rely on sklearn and  numpy which can be installed 
 python -m pip install numpy
 ```
 
-The optimisation has been realised using the matlab MPT toolbox.
+The optimisation has been realised using the MATLAB MPT toolbox.
 
 ## Codes description
 
